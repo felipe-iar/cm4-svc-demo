@@ -1,0 +1,6 @@
+Backup*
+*.dep
+
+settings/
+Debug/
+
